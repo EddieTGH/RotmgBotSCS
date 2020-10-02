@@ -1,0 +1,2 @@
+# RotmgBotSCS
+ rotmg bot screenshots
